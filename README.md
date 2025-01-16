@@ -12,3 +12,8 @@ The project employs a machine learning pipeline to classify heart disease condit
       - Correlation matrices
       - Pair plots and histograms
       - Distribution plots for key variables
+## Model Selection 
+  - Decision Trees
+  - Random Forests
+  - Principal Component Analysis
+  - Support Vector Machine
